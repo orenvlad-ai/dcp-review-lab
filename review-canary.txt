@@ -1,1 +1,2 @@
 review-canary=ok
+automatic-review-canary=2026-08-10
