@@ -1,0 +1,14 @@
+name: DCP Review Lab
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  dcp-review-lab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: test -f README.md
