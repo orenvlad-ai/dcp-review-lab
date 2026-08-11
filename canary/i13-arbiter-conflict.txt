@@ -1,1 +1,2 @@
 arbiter intent A
+arbiter intent B
