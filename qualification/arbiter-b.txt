@@ -1,3 +1,4 @@
 DCP Arbiter Scenario B
 entry: two
 entry: one
+entry: three
